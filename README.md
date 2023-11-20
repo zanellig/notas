@@ -4,7 +4,9 @@ This documentation serves as a personal reminder of the things that I must focus
 
 > This document was created thanks to the [Markdown Guide][1] and the [Learning Markdown course][2] by [Ray Villalobos][3].
 
-## _Goals to achieve for getting a job in IT_
+_File created with the help of VSCodium's tool for previewing md files._
+
+## Goals to achieve for getting a job in IT
 
 - Have a dazzling portfolio that showcases my most innovative and user-centric front-end engineer work.
 
@@ -16,11 +18,17 @@ This documentation serves as a personal reminder of the things that I must focus
 
 - Finish my bachelor's degree in [Computer Science][7].
 
+## Notes
+
+If you want to clone this file / repository, feel free to run:
+
+    git clone git@github.com:zanellig/notas.git
+
 ---
 
-> If you're interested in connecting and exploring possibilities, I would be thrilled to connect on [**LinkedIn**][8]!
->
-> You can also reach out to me via email at <gonzalozanelli1@gmail.com> 📨
+### If you're interested in connecting and exploring possibilities, I would be thrilled to connect on [**LinkedIn**][8]!
+
+### You can also reach out to me via email at <gonzalozanelli1@gmail.com> 📨
 
 [1]: (https://www.markdownguide.org/getting-started/)
 [2]: (https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-markdown%3Ftrk%3Dshare_ent_url%26shareId%3DFaUw2IcrR9qVg7GZwUwlyw%253D%253D)
