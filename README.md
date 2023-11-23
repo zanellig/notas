@@ -18,11 +18,16 @@ _File created with the help of VSCodium's tool for previewing md files._
 
 - Finish my bachelor's degree in [Computer Science](https://unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica).
 
+- Learn a CSS preprocessor like [`SASS`](https://www.youtube.com/watch?v=akDIJa0AP5c) or [`LESS`](https://search.brave.com/search?q=Less+Hat&source=desktop) to complement my `Bootstrap` knowledge.
+  - Additionally I could learn to use libraries like `Compass` or `Bourbon` for `SASS` and `LESS Hat` for `LESS`, depending on which one I end up choosing.
+
 ## Notes
 
-If you want to clone this file / repository, feel free to run:
+To clone this file / repository, run:
 
-    git clone git@github.com:zanellig/notas.git
+```bash
+git clone git@github.com:zanellig/notas.git
+```
 
 ---
 
